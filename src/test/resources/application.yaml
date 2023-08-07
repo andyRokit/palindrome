@@ -1,0 +1,3 @@
+palindrome:
+  store:
+    path: src/test/store/palindromes.txt
