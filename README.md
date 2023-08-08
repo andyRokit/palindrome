@@ -16,6 +16,7 @@ same backwards as forwards, such as madam or civic.
 ## Assumptions
 - The palindrome is supposed to represent a much more processing intensive process.  Otherwise the cache would be unlikely to pay for itself in a production scenario.
 - A large variety is palindromes may result in high numbers of cache writes per second.
+- The number of non-palindrome values will be significantly larger than palindromes
 
 ## Design
 
